@@ -1,10 +1,12 @@
-# calendar
+# calendar-picker
 
 > A calendar picker by Vue.js
 
+[预览地址](https://nice-ming.github.io/calendar-picker/)
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
